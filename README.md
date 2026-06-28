@@ -1,3 +1,5 @@
+![My Banner](github-header-banner.png)
+
 # Hi 👋, I'm Gia-Phat Nguyen
 
 - 🔭 I'm currently working on **Researcher specializing in AI, Computer Vision, and Signal Processing, with a growing focus on the intersection of bio-tech and robotics.**
