@@ -46,3 +46,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GiaPhaZZZ&theme=tokyonight" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GiaPhaZZZ&theme=tokyonight" width="49%" />
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GiaPhaZZZ/GiaPhaZZZ/main/profile-3d-contrib/profile-night-rainbow.svg">
+</p>
