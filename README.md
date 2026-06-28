@@ -15,9 +15,19 @@
 ![Stars](https://img.shields.io/github/stars/GiaPhaZZZ?style=for-the-badge&logo=github&color=f6bd60)
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://github.com/GiaPhaZZZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GiaPhaZZZ" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gia-phat-nguyen-288551382" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gia-phat-nguyen-288551382" height="30" width="40" /></a>
+  <a href="https://github.com/GiaPhaZZZ" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GiaPhaZZZ" height="30" width="40" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/gia-phat-nguyen-288551382/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+
+  <a href="https://orcid.org/0009-0004-5101-133X" target="_blank">
+    <img align="center" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" alt="ORCID" height="30" width="30" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
