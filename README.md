@@ -8,6 +8,12 @@
 
 - ⚡ Fun fact **I am into watching the sky at dawn**
 
+![Profile Views](https://komarev.com/ghpvc/?username=GiaPhaZZZ&color=7aa2f7&style=for-the-badge)
+
+![Followers](https://img.shields.io/github/followers/GiaPhaZZZ?style=for-the-badge&logo=github&color=7aa2f7)
+
+![Stars](https://img.shields.io/github/stars/GiaPhaZZZ?style=for-the-badge&logo=github&color=f6bd60)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/GiaPhaZZZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GiaPhaZZZ" height="30" width="40" /></a>
@@ -30,9 +36,3 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GiaPhaZZZ&theme=tokyonight" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GiaPhaZZZ&theme=tokyonight" width="49%" />
 </p>
-
-![Profile Views](https://komarev.com/ghpvc/?username=GiaPhaZZZ&color=7aa2f7&style=for-the-badge)
-
-![Followers](https://img.shields.io/github/followers/GiaPhaZZZ?style=for-the-badge&logo=github&color=7aa2f7)
-
-![Stars](https://img.shields.io/github/stars/GiaPhaZZZ?style=for-the-badge&logo=github&color=f6bd60)
