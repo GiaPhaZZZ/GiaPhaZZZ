@@ -59,12 +59,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/GiaPhaZZZ/GiaPhaZZZ/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </p>
-
-<!-- 3D City SVG Showcase -->
-<p align="center">
-  <a href="https://github.com/GiaPhaZZZ/GiaPhaZZZ/blob/main/GiaPhaZZZ-2026-city.stl" target="_blank">
-    <img src="./profile-3d-contrib/pro.svg" width="100%" alt="GiaPhaZZZ 2026 3D City" />
-  </a>
-  <br />
-  <sub>🏙️ <i>Click the city above to open and rotate the interactive 3D model!</i></sub>
-</p>
